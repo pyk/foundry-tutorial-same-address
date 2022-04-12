@@ -1,6 +1,8 @@
 # Foundry Tutorial
 
-This is short tutorial on how to deploy smart contract to every networks on
-the same address. We will use similar approach used by [Multicall3][mcall].
+![Foundry](./same-address.png)
 
-[mcall]: https://github.com/mds1/multicall
+
+Follow the [tutorial][t].
+
+[t]: https://mirror.xyz/pyk.eth/Mv5e8CH2D5_vy6hXWD2XuDJCU1VU0fqdo1nFs-qr8CY
